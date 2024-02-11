@@ -7,5 +7,6 @@ public class Main {
         Ferrari.accelerate();
         Ferrari.changeGear(5);
         System.out.println("Hello world!");
+        Airport.addFlyingCar();
     }
 }
